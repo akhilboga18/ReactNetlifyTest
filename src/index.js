@@ -107,7 +107,7 @@ import "./index.css";
 const books = [
   {
     id: 1,
-    title: "Spirit of jersey",
+    title: "Jersey",
     author: "Nani",
     img: "https://static.toiimg.com/thumb/msid-65034960,width-219,height-317,imgsize-38564/65034960.jpg",
   },
